@@ -1,0 +1,10 @@
+{
+  "name": "Caesar Cipher",
+  "description": "Simple Caesar Cipher in Go",
+  "keywords": [
+    "caesar-cipher",
+    "cipher"
+  ],
+  "website": "https://github.com/donmuniz/caesar-cipher",
+  "repository": "https://github.com/donmuniz/caesar-cipher"
+}
